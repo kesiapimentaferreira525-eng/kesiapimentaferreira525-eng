@@ -1,4 +1,4 @@
-## :Linguagens e Tecnologias:
+## :computer:Linguagens e Tecnologias:
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="80" height="80"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" height="80"/>
