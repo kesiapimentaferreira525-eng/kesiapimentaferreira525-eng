@@ -2,7 +2,6 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** uma profissional em transição de carreira para Tecnologia, unindo visão humana e raciocínio analítico no desenvolvimento de soluções web. Atualmente com foco em TypeScript e Java, atuo como fullstack na construção de APIs RESTful e FrontEnd.
 
-## :computer:Linguagens e Tecnologias:
 ## :computer: Linguagens e Tecnologias:
 
 <div>
