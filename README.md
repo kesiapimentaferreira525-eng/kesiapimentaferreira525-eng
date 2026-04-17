@@ -11,7 +11,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** uma profissional em tran
   <!-- Frontend -->
   <div class="tech-category">
     <h3>🎨 Frontend</h3>
-      <<p align="left">
+      <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;
@@ -44,5 +44,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** uma profissional em tran
 
 ## :email: Contatos:
 <div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80"/>  
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>  
 </div>
