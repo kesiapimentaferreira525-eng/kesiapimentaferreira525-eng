@@ -4,19 +4,81 @@ Estudante de **Análise e Desenvolvimento de Sistemas** uma profissional em tran
 
 ## :computer: Linguagens e Tecnologias:
 
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" />
-  
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80" height="80" alt="React" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80" height="80" alt="Spring" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" alt="Java" />
-  
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="80" height="80" alt="Prisma" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL" />
+<style>
+  .tech-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-family: Arial, sans-serif;
+  }
+
+  .tech-category {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .tech-category h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+
+  .tech-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .tech-icons img {
+    width: 70px;
+    height: 70px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 12px;
+    padding: 5px;
+    background: white;
+  }
+
+  .tech-icons img:hover {
+    transform: scale(1.15);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<div class="tech-stack">
+
+  <!-- Frontend -->
+  <div class="tech-category">
+    <h3>🎨 Frontend</h3>
+    <div class="tech-icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+    </div>
+  </div>
+
+  <!-- Backend -->
+  <div class="tech-category">
+    <h3>⚙️ Backend</h3>
+    <div class="tech-icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" />
+    </div>
+  </div>
+
+  <!-- Banco de Dados -->
+  <div class="tech-category">
+    <h3>🗄️ Banco de Dados</h3>
+    <div class="tech-icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
+    </div>
+  </div>
+
 </div>
 
 ## :email: Contatos:
