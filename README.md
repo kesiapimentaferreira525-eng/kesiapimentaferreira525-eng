@@ -4,46 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** uma profissional em tran
 
 ## :computer: Linguagens e Tecnologias:
 
-<style>
-  .tech-stack {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    font-family: Arial, sans-serif;
-  }
 
-  .tech-category {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .tech-category h3 {
-    margin: 0;
-    font-size: 18px;
-    color: #333;
-  }
-
-  .tech-icons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-  }
-
-  .tech-icons img {
-    width: 70px;
-    height: 70px;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    border-radius: 12px;
-    padding: 5px;
-    background: white;
-  }
-
-  .tech-icons img:hover {
-    transform: scale(1.15);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
-  }
-</style>
 
 <div class="tech-stack">
 
